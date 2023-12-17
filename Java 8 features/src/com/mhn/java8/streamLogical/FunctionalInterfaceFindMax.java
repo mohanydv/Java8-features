@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @FunctionalInterface
-public interface FindMax {
+public interface FunctionalInterfaceFindMax {
 
 	void maximum(List<Integer> max);
 
